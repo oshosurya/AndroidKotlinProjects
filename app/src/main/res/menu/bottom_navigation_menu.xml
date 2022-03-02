@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rankingsFragment"
+        android:icon="@drawable/ic_rankings"
+        android:title="@string/rankings" />
+
+    <item
+        android:id="@+id/portfolioFragment"
+        android:icon="@drawable/ic_portfolio"
+        android:title="@string/portfolio" />
+
+    <item
+        android:id="@+id/airdropsFragment"
+        android:icon="@drawable/ic_airdrops"
+        android:title="@string/airdrops"/>
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile"/>
+
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/ic_more"
+        android:title="@string/more"/>
+</menu>
